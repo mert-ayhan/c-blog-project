@@ -1,0 +1,2 @@
+baslik: My First Blog Text
+mesaj: Hi, I'm Mert Ayhan and its my first blog context.
